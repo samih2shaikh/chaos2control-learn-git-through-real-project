@@ -1,4 +1,4 @@
-# chaos2control-learn-git-through-real-project
+# 💻chaos2control-learn-git-through-real-project💻
   
 *Learn Git the way Samih did — by surviving real project chaos, then mastering the version control game.*
 

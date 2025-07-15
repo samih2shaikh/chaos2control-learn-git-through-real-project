@@ -109,6 +109,16 @@ Samih breaks things. You fix them. Together, you learn Git the way it actually w
 
 ---
 
+## 🧠 What You'll Learn
+
+| Episode | Mistake | Git Skill |
+|--------|---------|-----------|
+| ✅ 01 - Setup & Init | No version control | `git init`, `git status`, `git add`, `git commit` |
+| 🚧 02 - Git Log & Time Travel | Forgot what changed | `git log`, `diff`, history |
+| 🚧 03 - Commit Discipline | Messy commit log | `commit -m`, `rebase -i`, `squash` |
+| ... | ... | ... |
+
+
 ## 👨‍🎓 Who This Repo Is For
 
 - 👶 **Beginners** who want to *learn by doing*  
